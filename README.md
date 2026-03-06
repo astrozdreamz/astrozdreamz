@@ -1,3 +1,7 @@
+[![test+test;better+test](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
+
 <p align="center">
   <img height="525" width="535" src="https://cdn.discordapp.com/attachments/757933544734457951/1478187997856923728/Untitled991_20260302193113.png?ex=69a77d5a&is=69a62bda&hm=d3b0c17461591d335a1d1b04198da86195d46491454f2e35c0e9ee80455ff723"/>
 </a>
