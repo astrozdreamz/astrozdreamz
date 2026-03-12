@@ -40,5 +40,8 @@
 <a href="https://astrozdreams.straw.page/">
   <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1479607022197669998/Untitled989_20260306172955.png?ex=69b295ab&is=69b1442b&hm=c73004f52d535b7955bfab1bf423c541eaf6a94bd5dbc1b94aa6d8b5fc22394a"/>
 </a>
+<a href="https://guns.lol/astrozgalaxy">
+  <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1481474581909995653/baby_bluye_gnslol.png?ex=69b37238&is=69b220b8&hm=4981a5c4ead1ece9ce8f1b7d26ea805dea58106bebd67700ccc0990a3aa0911d&"/>
+</a>
   
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fastrozgalaxy&label=dreams%20%20given%20%20.%20.%20.&labelColor=%23263759&countColor=%23697689&style=plastic&labelStyle=lower)
