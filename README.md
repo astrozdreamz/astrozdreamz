@@ -17,7 +17,7 @@
 <p align="center">
 - dni if under 15 !! ,, i ' m 17-19
 <p align="center">
-- iwcaution , uf !
+- iwcaution , uf ! i can be very rude unintentionally .
 <p align="center">
 - socials below , click the icons :o)
 
