@@ -1,7 +1,7 @@
 # [![boi](https://readme-typing-svg.demolab.com/?lines=sweet+dreams+.+.+.;good+night+.;am+i+dreaming+?;let+'+s+get+some+rest+.+.;nap+time+.+.+.;i+wish+it+wasn+'+t+so+noisy+.+.+.;my+nap+will+have+to+wait+.+.+.&size=25&font=Fuzzy+Bubbles&size60&color=ACEEF7FF&duration=8500&random=true&center=true)](https://git.io/typing-svg)
 
 <p align="center">
-  <img height="525" width="535" src="https://cdn.discordapp.com/attachments/757933544734457951/1478187997856923728/Untitled991_20260302193113.png?ex=69b4039a&is=69b2b21a&hm=1114191568b2005fa7a1bd1677e48e6e019dea9d3fe997e926c81421f4b39cd9&"/>
+  <img height="525" width="535" src="https://cdn.discordapp.com/attachments/757933544734457951/1482359923173101599/baby_blue_astro_popup.webp?ex=69b6aac2&is=69b55942&hm=47592ae38771dd055c9d0816f8645f14d6d91ad03089c69b372bb0551add1ea8&"/>
 </a>
 
 <p align="center">
@@ -23,22 +23,22 @@
 
 <p align="center">
 <a href="https://www.roblox.com/users/3783538863/profile">
-  <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1478184392227553371/Untitled989_20260302191655.png?ex=69b4003e&is=69b2aebe&hm=0c7bd0573073d43b3ca54ef66abc7e4f6d8a24fcec625f6426bdd020ee45ce62&"/>
+  <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1482359147163816038/baby_blue_rblx.webp?ex=69b6aa09&is=69b55889&hm=190c2d74626983b4d5c959fe7dbf8aba1e4269e24fc855d465beb41125fe8ec6&"/>
 </a>
 <a href="https://astrozgalaxy.atabook.org/">
-  <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1478183794925375620/Untitled989_20260302191417.png?ex=69b3ffb0&is=69b2ae30&hm=f4411ebb95d8737a22aba990d54d3f157f3f29b81368f58c608737a683f60db6&">
+  <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1482359148514508851/baby_blue_ata.webp?ex=69b6aa09&is=69b55889&hm=1900ccb70388140540c4cc96416f143bdd068e5c44fb9b6e524297ae5bd7a984&">
 </a>
   <a href="https://discordapp.com/users/658405957608407055">
-  <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1478183778437562464/Untitled989_20260302191410.png?ex=69b3ffac&is=69b2ae2c&hm=de26e0e3b4b45863f62a3f913043019bb508f83f4c22261d1cd39abcd4d2bb27&">
+  <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1482359148082368552/baby_blue_discord.webp?ex=69b6aa09&is=69b55889&hm=d454cc7d6a1a142e0cecdb7ac30b86396ff909b3750093ad743c5ed55c5eea23&">
 </a>
   <a href="https://rentry.co/astrozgalaxy">
-  <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1478183795118309436/Untitled989_20260302191424.png?ex=69b3ffb0&is=69b2ae30&hm=1ec6082931b49fd2544f12002937e88623d63a50b1f4fdc71ffd6f6bd827bb9e&">
+  <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1482359146614620332/baby_blue_rentry.png?ex=69b6aa09&is=69b55889&hm=46f6deeb1673b2071dc6a486362dcd9707819f7e61f2d114beb7fb819848ae58&">
 </a>
 <a href="https://en.pronouns.page/@splatoonobsessed">
-  <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1478922920108753047/ppagelogo.png?ex=69b40d0d&is=69b2bb8d&hm=db1ba532a9ee4b8d7829c5dacf4b475845fbe46376c968dd4ea615b4afc965d4&"/>
+  <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1482359147638030426/baby_blue_prnspg.webp?ex=69b6aa09&is=69b55889&hm=4988e1ff9ebdcdb3adf7949c6fe65bebbe19d16f5fa8f70915154acb49c9a485&"/>
 </a>
 <a href="https://astrozdreams.straw.page/">
-  <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1479607022197669998/Untitled989_20260306172955.png?ex=69b3e72b&is=69b295ab&hm=2b1f61724bc9dea1fa4b73c1d912d1d7d321192d4fa08f42a983c490dfd8c414&"/>
+  <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1482359146094268597/baby_blue_strawpg.webp?ex=69b6aa09&is=69b55889&hm=d9ec67094a916af86175c2d680ab859a404fba0a0bc0d496fb453ebb825e5322&"/>
 </a>
 <a href="https://guns.lol/astrozgalaxy">
   <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1481474581909995653/baby_bluye_gnslol.png?ex=69b37238&is=69b220b8&hm=4981a5c4ead1ece9ce8f1b7d26ea805dea58106bebd67700ccc0990a3aa0911d&"/>
