@@ -1,4 +1,7 @@
-# [![boi](https://readme-typing-svg.demolab.com/?lines=sweet+dreams+.+.+.;good+night+.;am+i+dreaming+?;let+'+s+get+some+rest+.+.;nap+time+.+.+.;i+wish+it+wasn+'+t+so+noisy+.+.+.;my+nap+will+have+to+wait+.+.+.&size=25&font=Fuzzy+Bubbles&size60&color=ACEEF7FF&duration=8500&random=true&center=true)](https://git.io/typing-svg)
+.<p align="center">
+[![boi](https://readme-typing-svg.demolab.com/?lines=sweet+dreams+.+.+.;good+night+.;am+i+dreaming+?;let+'+s+get+some+rest+.+.;nap+time+.+.+.;i+wish+it+wasn+'+t+so+noisy+.+.+.;my+nap+will+have+to+wait+.+.+.&size=25&font=Fuzzy+Bubbles&size60&color=ACEEF7FF&duration=8500&random=true&center=true)](https://git.io/typing-svg)
+
+#
 
 <p align="center">
   <img height="525" width="535" src="https://cdn.discordapp.com/attachments/757933544734457951/1483796913978605629/better_baby_blue_banner.png?ex=69bbe50f&is=69ba938f&hm=61f922b9b3f6dfceef9d0313d130ffddb70300cb422556427872eaa144c4dc07&"/>
@@ -44,9 +47,9 @@
   <img height="50" src="https://cdn.discordapp.com/attachments/757933544734457951/1481474581909995653/baby_bluye_gnslol.png?ex=69bb5b38&is=69ba09b8&hm=4ab1738ff57f05c3f8a60588ccfeeadbf68c9455e5b13b980e92c7bf69f3f290&"/>
 </a>
 
+.<p align="center">
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fastrozgalaxy&label=dreams%20%20given%20%20.%20.%20.&labelColor=%23263759&countColor=%23697689&style=plastic&labelStyle=lower)
+
 <p align="center">
   <img height="500" width="500" src="https://64.media.tumblr.com/a5898ea653877fc11bfb1aaed674acf6/93ce3cb722e5249f-4e/s400x600/85fc150b66d2d15dbdffafa2504d6ba490ed3b2d.pnj"/>
 </a>
-
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fastrozgalaxy&label=dreams%20%20given%20%20.%20.%20.&labelColor=%23263759&countColor=%23697689&style=plastic&labelStyle=lower)
