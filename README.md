@@ -2,9 +2,11 @@
   
 
 check [gunslol](https://guns.lol/astrozgalaxy) for other websites ^__^ -- note : i have typing quirk ok
+
+art below made by me . kinsona is below ok . no inspo or copying pslpsls
   
 <p align="center">
-  <img height="525" width="535" src="https://cdn.discordapp.com/attachments/757933544734457951/1486486897458155550/im_homophobic_too_20260218203008.png?ex=69c5ae4d&is=69c45ccd&hm=afb1c54eb937be984b5fdeed2c974d964713cf9f5c37ef12761fef988845a7b4&"/>
+  <img height="525" width="535" src="https://cdn.discordapp.com/attachments/757933544734457951/1487524778918154461/astro_chibi_20260328145125.png?ex=69c974e8&is=69c82368&hm=4221c3a507c0b9829eaa54e78d36f9ad001f4df47b4c63fa7c680d99a5b10ac9&"/>
 </a>
 
 .<p align="center">
